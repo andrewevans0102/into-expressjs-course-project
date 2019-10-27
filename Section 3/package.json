@@ -1,0 +1,16 @@
+{
+  "name": "star-wars-express-api",
+  "version": "1.0.0",
+  "description": "Sample API with GET, PUT, POST, and DELETE with your favorite Star Wars characters",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Andrew Evans",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.4"
+  }
+}
