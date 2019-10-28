@@ -5,7 +5,8 @@
   "main": "server.js",
   "scripts": {
     "start": "nodemon start.js",
-    "finish": "nodemon finish.js"
+    "finish": "nodemon finish.js",
+    "finish-bonus": "nodemon finish_bonus.js"
   },
   "author": "Andrew Evans",
   "license": "MIT",
